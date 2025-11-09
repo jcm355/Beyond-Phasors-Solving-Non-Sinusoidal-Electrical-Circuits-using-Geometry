@@ -11,11 +11,11 @@ This repository contains the supplementary material, validation scripts, and MAT
 
 1.  **`Material_Suplementary___Beyond_Phasors.pdf`**:
     The complete supplementary material for the article. It includes:
-    * [cite_start]Detailed derivations for the single-frequency (N=1) validation [cite: 390-441].
-    * [cite_start]Derivations for canonical (R, L, C) and combined (RL, RC) loads [cite: 443-550].
-    * [cite_start]Full derivations of the N=2 and N=3 case studies presented in the main paper [cite: 552-646].
-    * [cite_start]Extended case studies (N=5) for series and parallel circuits [cite: 650-721].
-    * [cite_start]**Appendix H**: A detailed description of the script implementations, required libraries, and the computational performance benchmark results [cite: 723-804].
+    * Detailed derivations for the single-frequency (N=1) validation.
+    * Derivations for canonical (R, L, C) and combined (RL, RC) loads.
+    * Full derivations of the N=2 and N=3 case studies presented in the main paper.
+    * Extended case studies (N=5) for series and parallel circuits.
+    * **Appendix H**: A detailed description of the script implementations, required libraries, and the computational performance benchmark results.
 
 2.  **`/scripts`** (Suggested directory for the .m files):
     * **`Resolution_GA_clifford.m`**:
@@ -23,7 +23,7 @@ This repository contains the supplementary material, validation scripts, and MAT
     * **`Resolution_GA_sugar.m`**:
         A *validation* script that performs the same numerical check as the one above but uses the **`SUGAR`** library for MATLAB.
     * **`Comparative_times_GAful.m`**:
-        [cite_start]The *benchmarking* script used to generate the computational performance comparisons shown in Appendix H [cite: 765-766]. This script measures the execution time of the "GA-Real (Native)" algorithm against the classic "Phasor (Native Complex)" method for all four RLC circuit cases.
+        The *benchmarking* script used to generate the computational performance comparisons shown in Appendix H. This script measures the execution time of the "GA-Real (Native)" algorithm against the classic "Phasor (Native Complex)" method for all four RLC circuit cases.
 
 ## ⚙️ Dependencies
 
