@@ -5,7 +5,7 @@ This repository contains the supplementary material, validation scripts, and MAT
 **"Beyond Phasors: Solving Non-Sinusoidal Electrical Circuits using Geometry"**
 *Javier Castillo-Martínez, Raul Baños and Francisco G. Montoya*
 
-*(Link to article/DOI - [ADD LINK/DOI WHEN PUBLISHED])*
+*(Link to article/DOI - [ADD LINK/DOI WHEN PUBLISHED])* 
 
 ## 📂 Repository Contents
 
