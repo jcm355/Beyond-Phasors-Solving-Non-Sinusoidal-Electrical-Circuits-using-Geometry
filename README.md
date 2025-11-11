@@ -6,6 +6,8 @@ This repository contains the supplementary material, validation scripts, and MAT
 *Javier Castillo-Martínez, Raul Baños and Francisco G. Montoya*
 
 *(Link to article/DOI - [ADD LINK/DOI WHEN PUBLISHED])* 
+pre-print at: https://arxiv.org/abs/2511.06997
+DOI: https://doi.org/10.48550/arXiv.2511.06997
 
 ## 📂 Repository Contents
 
